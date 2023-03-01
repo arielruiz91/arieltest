@@ -1,0 +1,110 @@
+@import "https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap";@import "https://fonts.googleapis.com/css?family=Raleway:400";
+@import "https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap";
+
+
+
+body {
+    margin: 0;
+    padding-bottom:0%;
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-top: 0%;
+
+}
+
+
+title{
+    text-align: center;
+   justify-content: center;
+   
+   
+}
+
+h1 {
+text-align: center;
+font-family: 'Golos';
+font-size: 40px;
+font-family: 'Open Sans', sans-serif;
+
+}
+
+.rounded-circle
+{
+
+    max-width: 30%
+}
+
+
+h2{
+    text-align: center;
+    color: brown;  
+    font-size: 40px;
+    
+    }
+
+.nav-enlace{
+    
+        text-align: justify;
+        display: flex;
+        color: red;
+        padding: 5px 5px;
+        text-decoration: none;
+        font-family: 'Segoe UI';
+       font-size: 24px;
+       justify-content: center;
+    }
+
+.subtitulo{
+    color: blueviolet;
+    text-decoration: none;
+    padding: 8px;
+    font-size: 50px;
+    justify-content: center;
+    
+
+}
+
+
+.sobremitexto{
+color: rgb(0, 8, 255);
+font-size: 37px;
+justify-content: center;
+margin-bottom: auto;
+}
+
+p {
+
+color: red;
+font-size: 37px;
+text-align: center;
+
+}
+
+
+
+.text{  
+    color: black;
+        width: 40%;
+        margin-left: 1px;
+        
+    }
+    
+
+    .datos {
+        color: green;
+        text-decoration: none;
+        padding: 10px;
+        font-size: 35px;
+        margin-bottom: auto;
+        justify-content: center;
+    }
+
+    footer{
+
+        color:rgb(4, 18, 136);
+        font-size: large;
+        text-align: center;
+        
+    }
+
+
